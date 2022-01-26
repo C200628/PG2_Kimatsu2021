@@ -7,6 +7,12 @@ header h1 {
     text-align: center;
 }
 
+img{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
+
 main {
     margin: 0 10%;
 }
